@@ -6,6 +6,13 @@ A simple and interactive Rock Paper Scissors game built using **HTML**, **CSS**,
 
 ---
 
+## Visualization
+
+### Game Interface
+![Screen Shot 2024-12-02 at 4 25 52 PM](https://github.com/user-attachments/assets/81c4a2e0-2d4d-4504-8230-04ba5c304dfa)
+
+---
+
 ## Features
 
 - **User-Friendly Interface**: Clean and intuitive design for seamless gameplay.
@@ -44,6 +51,8 @@ git clone https://github.com/maitrimydur/rock-paper-scissors.git
 gh repo clone maitrimydur/rock-paper-scissors
 ```
 
+---
+
 ## Running the Game Locally
 1. Navigate to the Project Directory
 
@@ -60,15 +69,21 @@ open index.html
 ```
 _(Note: The **open** command is for macOS. On Windows, use **start index.html**, and on Linux, use **xdg-open index.html**)_
 
+---
+
 ## File Structure
 - **index.html**: The main HTML file that structures the game interface.
 - **styles.css**: The CSS file that styles the game elements and layout.
 - **app.js**: The JavaScript file that contains the game logic.
 - **images/**: Directory containing images for rock, paper, and scissors.
 
+---
+
 ## Technologies Used
 - **HTML5**: Markup language for structuring the content.
 - **CSS3**: Styling and layout of the game interface.
 - **JavaScript (ES6)**: Game logic and interactivity.
+
+
 
 
