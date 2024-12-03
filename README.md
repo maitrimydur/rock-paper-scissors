@@ -36,3 +36,12 @@ You can clone the repository using HTTPS or GitHub CLI.
 
 ```bash
 git clone https://github.com/maitrimydur/rock-paper-scissors.git
+```
+
+#### Using GitHub CLI: 
+
+```
+gh repo clone maitrimydur/rock-paper-scissors
+```
+
+
