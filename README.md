@@ -40,8 +40,35 @@ git clone https://github.com/maitrimydur/rock-paper-scissors.git
 
 #### Using GitHub CLI: 
 
-```
+```bash
 gh repo clone maitrimydur/rock-paper-scissors
 ```
+
+## Running the Game Locally
+1. Navigate to the Project Directory
+
+```bash
+cd rock-paper-scissors
+```
+2. Open the Game
+Open the **index.html** file in your preferred web browser.
+- You can do this by double-clicking the **index.html** file.
+- Or, from the command line:
+
+```bash
+open index.html
+```
+_(Note: The **open** command is for macOS. On Windows, use **start index.html**, and on Linux, use **xdg-open index.html**)_
+
+## File Structure
+- **index.html**: The main HTML file that structures the game interface.
+- **styles.css**: The CSS file that styles the game elements and layout.
+- **app.js**: The JavaScript file that contains the game logic.
+- **images/**: Directory containing images for rock, paper, and scissors.
+
+## Technologies Used
+- **HTML5**: Markup language for structuring the content.
+- **CSS3**: Styling and layout of the game interface.
+- **JavaScript (ES6)**: Game logic and interactivity.
 
 
